@@ -1,15 +1,13 @@
-# SpotifyGlimmer (Custom Edition)
-
+# SpotifyGlimmer
 > Welcome to my custom build! You will find the build instructions and installation guide specific to this version right here.
 
 ---
 
-### **SpotifyGlimmer**
-This project is compiled based on the [EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated) plugin + Spotify IPA. The EeveeSpotifyReincarnated plugin is updated based on EeveeSpotify, which can remove ads, remove song skip limits, and unlock almost all other premium features.
+This project is compiled based on the  [EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated)  plugin + Spotify IPA. The EeveeSpotifyReincarnated plugin is updated based on EeveeSpotify, which can remove ads, remove song skip limits, and unlock almost all other premium features.
 * **Note**: Offline downloading is not available because this feature is processed on the server side.
 
 ## 📥 Installation Guide
-* **Recommended Method**: It is recommended to use **AltStore** or **SideStore** to install the compiled IPA onto your iPhone.
+* **Recommended Method**: It is recommended to use  **AltStore**  or  **SideStore**  to install the compiled IPA onto your iPhone.
 
 ---
 
