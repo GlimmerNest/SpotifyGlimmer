@@ -1,26 +1,21 @@
 # SpotifyGlimmer (Custom Edition)
 
-> 欢迎来到我的定制构建版本！这里包含了专属于该版本的构建说明与安装指南。
+> Welcome to my custom build! You will find the build instructions and installation guide specific to this version right here.
 
 ---
+
 ### **SpotifyGlimmer**
-本项目基于 [EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated) 插件 + Spotify IPA 编译而成。EeveeSpotifyReincarnated 插件是在 EeveeSpotify 基础上更新的，可以移除广告、取消歌曲跳过次数限制，以及几乎所有其他高级功能。
-* **注意**：无法使用离线下载，因为这项功能是在服务器端完成的。
-
----
-
-### **SpotifyGlimmer** (English)
 This project is compiled based on the [EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated) plugin + Spotify IPA. The EeveeSpotifyReincarnated plugin is updated based on EeveeSpotify, which can remove ads, remove song skip limits, and unlock almost all other premium features.
 * **Note**: Offline downloading is not available because this feature is processed on the server side.
 
-## 📥 安装指南 / Installation Guide
-* **推荐方式**：推荐使用 **AltStore** 或 **SideStore** 将编译好的 IPA 安装到你的 iPhone 上。
+## 📥 Installation Guide
 * **Recommended Method**: It is recommended to use **AltStore** or **SideStore** to install the compiled IPA onto your iPhone.
 
 ---
 
 <details>
-<summary><b>📖 点击展开：查看原作者的完整官方说明 (Original Upstream README)</b></summary>
+<summary><b>📖 Click to expand: View the original author's full official explanation </b></summary>
+
 ![Banner](Images/banner.png?)
 
 # EeveeSpotifyReincarnated
